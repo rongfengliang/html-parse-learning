@@ -1,0 +1,16 @@
+{
+  "name": "htmlparser2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "css": "^2.2.4",
+    "cssom": "^0.3.4",
+    "htmlparser2": "^3.10.0"
+  },
+  "scripts": {
+    "js": "node js",
+    "css": "node css",
+    "cssom": "node cssom"
+  }
+}
