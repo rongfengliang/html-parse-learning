@@ -6,13 +6,16 @@
   "dependencies": {
     "css": "^2.2.4",
     "cssom": "^0.3.4",
-    "htmlparser2": "^3.10.0"
+    "highlight.js": "^9.13.1",
+    "htmlparser2": "^3.10.0",
+    "marked": "^0.5.2",
+    "raw-module-require-hook": "^1.0.1"
   },
   "scripts": {
-    "all":"yarn js && yarn css && yarn cssom && yarn m",
+    "all": "yarn js && yarn css && yarn cssom && yarn m",
     "js": "node js",
     "css": "node css",
     "cssom": "node cssom",
-    "m":"node m"
+    "m": "node m"
   }
 }

@@ -1,1 +1,4 @@
 node_modules/**
+app.html
+rong.html
+yarn.lock
