@@ -9,8 +9,10 @@
     "htmlparser2": "^3.10.0"
   },
   "scripts": {
+    "all":"yarn js && yarn css && yarn cssom && yarn m",
     "js": "node js",
     "css": "node css",
-    "cssom": "node cssom"
+    "cssom": "node cssom",
+    "m":"node m"
   }
 }
